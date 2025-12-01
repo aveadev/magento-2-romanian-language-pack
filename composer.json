@@ -1,13 +1,14 @@
 {
   "name": "aveadev/magento-2-romanian-language-pack",
   "description": "Romanian language package for Magento 2",
+  "keywords": [
+    "magento", 
+    "slovak language",
+    "sk_SK"
+  ],
   "homepage": "https://www.avea.dev",
   "type": "magento2-language",
-  "version": "1.0.1",
-  "license": [
-    "OSL-3.0",
-    "AFL-3.0"
-  ],
+  "license": "MIT",
   "authors": [
     {
       "name": "Matus Stafura",
