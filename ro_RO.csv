@@ -7739,3 +7739,6 @@ Zip/Postal Code is Optional for,Codul postal este Optional pentru,module,Magento
 "Your %store_name order has shipped","Comanda ta la %store_name a fost expediata",module,Magento_Sales
 "Update to your %store_name shipment","Schimbare starii livarii pentru comanda ta la %store_name",module,Magento_Sales
 "My billing and shipping address are the same","Adresa de livrare este aceeasi cu adresa de facturare",module,Magento_Checkout
+We have received a request to change the following information associated with your account at %store_name: password.,Am primit o solicitare de a modifica următoarea informație asociată contului dumneavoastră de la %store_name: parola.,module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at %store_email","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la %store_email",module,Magento_User
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
