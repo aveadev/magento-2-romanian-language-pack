@@ -2896,6 +2896,7 @@ If there is an account associated with %1 you will receive an email with a link 
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Daca aveti utilizatori multipli încrisi pe contul dumneavoastra, reintroduceti datele de conectare la contul de Furnizor/Comerciant aici.",module,Magento_Paypal
 "If you have an account, sign in with your email address.","Daca aveti un cont creat, conectati-va cu adresa de email.",module,Magento_Customer
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Daca aveti întrebari referitoare la comanda dumneavoastra, ne puteti trimite email la <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Daca aveti întrebari referitoare la comanda dumneavoastra, ne puteti trimite email la <a href=""mailto:%store_email"">%store_email</a>.",module,Magento_Sales
 "If you requested this change, reset your password here:","Daca dumneavoastra ati solicitat aceasta schimbare, setati parola noua aici:",module,Magento_User
 "If you requested this change, set a new password here:","Daca dumneavoastra ati solicitat aceasta schimbare, setati parola noua aici:",module,Magento_Customer
 If you select and save the rule you will be able to generate multiple coupon codes.,Daca selectati si salvati regula veti putea genera coduri de cupon multiple.,module,Magento_SalesRule
