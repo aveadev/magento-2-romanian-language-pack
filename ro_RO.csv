@@ -7742,3 +7742,5 @@ Zip/Postal Code is Optional for,Codul postal este Optional pentru,module,Magento
 We have received a request to change the following information associated with your account at %store_name: password.,Am primit o solicitare de a modifica următoarea informație asociată contului dumneavoastră de la %store_name: parola.,module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at %store_email","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la %store_email",module,Magento_User
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+Your Cart,Coșul tău,module,Magento_Checkout
+Legal guarantee notice,Notificare privind garanția legală,module,Swissup_CheckoutConsumerRights
