@@ -694,7 +694,7 @@ Apply Coupon Code,Aplicare cod cupon,module,Magento_Sales
 Apply custom Shipping Policy,Aplicati Politica de livrare personalizata,module,Magento_Shipping
 Apply Customer Tax,Aplica taxa client,module,Magento_Tax
 Apply Discount,Aplicati reducere,module,Magento_Checkout
-Apply Discount Code,Aplicati cod reducere,module,Magento_Checkout
+Apply Discount Code,Aplică codul de reducere,module,Magento_Checkout
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Aplicarea reducerii la preturi incluzand taxa se calculeaza pe baza taxei de magazin daca optiunea""Aplica taxa dupa reducere"" este selectata.",module,Magento_Tax
 Apply Discount On Prices,Aplica reducere la preturi,module,Magento_Tax
 Apply Rules,Aplicati reguli,module,Magento_CatalogRule
@@ -1253,13 +1253,13 @@ Choose Store View:,Alegeti vizualizare magazin:,module,Magento_Newsletter
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Alegeti daca se afiseaza IP-ul clientului în comenzi, facturi, livrari si note de credit.",module,Magento_Sales
 Choose...,Alegeti...,module,Magento_Widget
 "Circular-reference in theme inheritance detected for ""%1""","Referinta-circulara în succesiunea temelor gasita la ""%1""",module,Magento_Theme
-City,Oras,module,Magento_Backend
-City,Oras,module,Magento_Braintree
-City,Oras,module,Magento_Checkout
-City,Oras,module,Magento_Customer
-City,Oras,module,Magento_Email
-City,Oras,module,Magento_Sales
-City,Oras,module,Magento_Shipping
+City,Oraș,module,Magento_Backend
+City,Oraș,module,Magento_Braintree
+City,Oraș,module,Magento_Checkout
+City,Oraș,module,Magento_Customer
+City,Oraș,module,Magento_Email
+City,Oraș,module,Magento_Sales
+City,Oraș,module,Magento_Shipping
 Class name and class type,Nume clasa si tip clasa,module,Magento_Tax
 Cleanup Probability,Probabilitate curatare,module,Magento_Integration
 Cleanup Settings,Setari curatare,module,Magento_Integration
@@ -1271,7 +1271,7 @@ Clear Price,stergere pret,module,Magento_Catalog
 Clear Shopping Cart,Goliti cosul de cumparaturi,module,Magento_Checkout
 Clear Shopping Cart,Goleste cosul de cumparaturi,module,Magento_Sales
 "Click ""Save"" to apply the rates we found.","Faceti click pe ""Salveaza"" pentru a pune în aplicare cursul gasit.",module,Magento_CurrencySymbol
-"Click <a href=""%1"">here</a> to continue shopping.","Faceti click <a href=""%1"">aici</a> pentru a continua cumparaturile.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Faceți clic <a href=""%1"">aici</a> pentru a continua cumpărăturile.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to see the review.","Faceti click <a href=""%1"">aici</a> pentru a vedea rcenzia.",module,Magento_Review
 Click for price,Faceti click pentru pret,module,Magento_Catalog
 Click for price,Faceti click pe pret,module,Magento_Msrp
@@ -1436,8 +1436,8 @@ Continue,Continuati,module,Magento_ImportExport
 Continue,Continuati,module,Magento_Paypal
 Continue,Continuati,module,Magento_Sales
 Continue,Continuati,module,Magento_Widget
-Continue Shopping,Continuati cumparaturile,module,Magento_Checkout
-Continue Shopping,Continuati cumparaturile,module,Magento_Multishipping
+Continue Shopping,Continuă cumpărăturile,module,Magento_Checkout
+Continue Shopping,Continuă cumpărăturile,module,Magento_Multishipping
 Continue to Billing Information,Continua cu informatiile de facturare,module,Magento_Multishipping
 Conversion Color,Culoare conversie,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Valoarea culorii conversiei nu este valida ""%1"". Setati o valoare hexazecimala de 6 cifre.",module,Magento_GoogleAdwords
@@ -1493,16 +1493,16 @@ Could not save quote,Nu s-a putut salva mentiunea,module,Magento_Quote
 Could not save shipment,Nu se poate salva livrarea.,module,Magento_Sales
 "Could not update option with id ""%1""","Nu se poate actualiza optiunea cu id-ul ""%1""",module,Magento_ConfigurableProduct
 Countries Payment Applicable From,#ERROR!,module,Magento_Paypal
-Country,Tara,module,Magento_Backend
-Country,Tara,module,Magento_Braintree
-Country,Tara,module,Magento_Checkout
-Country,Tara,module,Magento_Customer
-Country,Tara,module,Magento_Email
-Country,Tara,module,Magento_OfflineShipping
-Country,Tara,module,Magento_Sales
-Country,Tara,module,Magento_Shipping
-Country,Tara,module,Magento_Tax
-Country,Tara,module,Magento_TaxImportExport
+Country,Țara,module,Magento_Backend
+Country,Țara,module,Magento_Braintree
+Country,Țara,module,Magento_Checkout
+Country,Țara,module,Magento_Customer
+Country,Țara,module,Magento_Email
+Country,Țara,module,Magento_OfflineShipping
+Country,Țara,module,Magento_Sales
+Country,Țara,module,Magento_Shipping
+Country,Țara,module,Magento_Tax
+Country,Țara,module,Magento_TaxImportExport
 Country and Format Type combination should be unique,Combinatia Tip Format si tara trebuie sa fie unica,module,Magento_Directory
 Country Options,Optiuni tara,module,Magento_Backend
 Country Specific Credit Card Types,Tipuri card de credit tari specifice,module,Magento_Braintree
@@ -2088,11 +2088,11 @@ Dynamic,Dinamic,module,Magento_Paypal
 EAV types and attributes,Tipuri si atribute EAV,module,Magento_Eav
 eBay Auction Payment,Palta licitatie eBay,module,Magento_Paypal
 Economy select,Selectare economie,module,Magento_Dhl
-Edit,Editati,module,Magento_Braintree
-Edit,Editati,module,Magento_Catalog
-Edit,Editati,module,Magento_Checkout
-Edit,Editati,module,Magento_Cms
-Edit,Editati,module,Magento_Customer
+Edit,Editează,module,Magento_Braintree
+Edit,Editează,module,Magento_Catalog
+Edit,Editează,module,Magento_Checkout
+Edit,Editează,module,Magento_Cms
+Edit,Editează,module,Magento_Customer
 Edit,Editare,module,Magento_Integration
 Edit,Editare,module,Magento_Multishipping
 Edit,Editare,module,Magento_Paypal
@@ -2100,7 +2100,7 @@ Edit,Editare,module,Magento_Review
 Edit,Editare,module,Magento_Sales
 Edit,Editare,module,Magento_Search
 Edit,Editare,module,Magento_UrlRewrite
-Edit,Editati,module,Magento_Wishlist
+Edit,Editează,module,Magento_Wishlist
 "Edit ""%1"" Integration","Editare integrare""%1""",module,Magento_Integration
 Edit Account Information,Editare informatii cont,module,Magento_Customer
 Edit Address,Editati adresa,module,Magento_Customer
@@ -2364,7 +2364,7 @@ Error:,Eroare:,module,Magento_Shipping
 Error!,Eroare!,module,Magento_Checkout
 error123,eroare123,module,Magento_Quote
 error345,eroare345,module,Magento_Quote
-Estimate Shipping and Tax,Estimare livrare si taxe,module,Magento_Checkout
+Estimate Shipping and Tax,Estimare livrare și taxe,module,Magento_Checkout
 Estimate Tax,Estimati taxe,module,Magento_Checkout
 Europack,Europack,module,Magento_Dhl
 Europe First Priority,Europe First Priority,module,Magento_Fedex
@@ -3576,7 +3576,7 @@ Most Viewed Products,Cele mai vizualizate produse,module,Magento_Backend
 Most Viewed Products Report,Raport Cele mai vizualizate produse,module,Magento_Reports
 Move to Shopping Cart,Mutati în cosul de cumparaturi,module,Magento_Sales
 Move to Wish List,Mutati în lista de dorinte,module,Magento_Sales
-Move to Wishlist,Mutati în Lista de Dorinte,module,Magento_Wishlist
+Move to Wishlist,Mută în lista de dorințe,module,Magento_Wishlist
 Multi-address Description Message,Mesaj de descriere Adrese multiple,module,Magento_Sales
 Multi-address Error to Show in Shopping Cart,Eroare adresa multipla de afisat în cosul de cumparaturi,module,Magento_Sales
 Multiple Select,Selectare multipla,module,Magento_Catalog
@@ -4205,10 +4205,10 @@ Payment from Specific Countries,Plata din tari specifice,module,Magento_OfflineP
 Payment Information,Informatii despre plata,module,Magento_Braintree
 Payment Information,Informatii plata,module,Magento_Sales
 Payment Information,Informatii plata,module,Magento_Shipping
-Payment Method,Modalitate de plata,module,Magento_Multishipping
-Payment Method,Modalitate de plata,module,Magento_Paypal
-Payment Method,Modalitate plata,module,Magento_Sales
-Payment Method,Modalitate de plata,module,Magento_SalesRule
+Payment Method,Metodă de plată,module,Magento_Multishipping
+Payment Method,Metodă de plată,module,Magento_Paypal
+Payment Method,Metodă de plată,module,Magento_Sales
+Payment Method,Metodă de plată,module,Magento_SalesRule
 Payment Method:,Modaliate de livrare:,module,Magento_Checkout
 Payment Method:,Modalitate plata:,module,Magento_Paypal
 Payment Method:,Modalitate de plata:,module,Magento_Sales
@@ -4295,15 +4295,15 @@ Persistent Shopping Cart,Cos de cumparaturi durabil,module,Magento_Persistent
 Personal Information,Informatii personale,module,Magento_Customer
 Phone,Telefon,module,Magento_Customer
 Phone,Telefon,module,Magento_Sales
-Phone Number,Numar de telefon,module,Magento_Contact
-Phone Number,Numar de telefon,module,Magento_Customer
-Phone Number,Numar de telefon,module,Magento_Sales
+Phone Number,Număr de telefon,module,Magento_Contact
+Phone Number,Număr de telefon,module,Magento_Customer
+Phone Number,Număr de telefon,module,Magento_Sales
 Phone Number: %telephone,Numar de telefon: %telephone,module,Magento_Contact
 PHP SOAP extension is required.,Extensia PHP SOAP este necesara.,module,Magento_Customer
 Phrase,Fraza,module,Magento_Theme
 Pickup Method,Modalitate ridicare,module,Magento_Ups
 Place Order,Plasati comanda,module,Magento_Multishipping
-Place Order,Plaseaza comanda,module,Magento_Paypal
+Place Order,Plasează comanda,module,Magento_Paypal
 Placed from IP,Plasata de la IP-ul,module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Plasat la <span class=""no-link"">%created_at</span>",module,Magento_Sales
 Platinum Partners,Parteneri Platina,module,Magento_Marketplace
@@ -4734,7 +4734,7 @@ Priority Mail Window Flat Rate Envelope Hold For Pickup,Plic Tarif Forfetar Fere
 Priority Overnight,Prioritate a doua zi,module,Magento_Fedex
 Private Key,Cheie privata,module,Magento_Braintree
 Proceed through checkout faster,Treceti mai repede prin procesul de checkout,module,Magento_Customer
-Proceed to Checkout,Mergeti la checkout,module,Magento_Checkout
+Proceed to Checkout,Finalizează comanda,module,Magento_Checkout
 Process payments using your own internet merchant account.,Procesati platile folosind propriul dumneavoastra cont de comerciant pe internet.,module,Magento_Paypal
 Processed,Procesat,module,Magento_Newsletter
 Processing,Se proceseaza,module,Magento_Indexer
@@ -5050,8 +5050,8 @@ Remove image,stergeti imagine,module,Magento_ConfigurableProduct
 Remove item,stergeti articol,module,Magento_Checkout
 Remove Item,sterge articol,module,Magento_Multishipping
 Remove item,sterge articol,module,Magento_Multishipping
-Remove Item,Eliminati articol,module,Magento_Wishlist
-Remove item,Eliminati articol,module,Magento_Wishlist
+Remove Item,Elimină articolul,module,Magento_Wishlist
+Remove item,Elimină articolul,module,Magento_Wishlist
 Remove Layout Update,Eliminati actualizare aspect,module,Magento_Widget
 Remove Option,stergeti optiune,module,Magento_ConfigurableProduct
 Remove Product,stergeti produs,module,Magento_Catalog
@@ -5551,7 +5551,7 @@ Shipping method is not applicable for empty cart,Modalitatea de plata nu este ap
 Shipping Method:,Modalitate de livrare:,module,Magento_Checkout
 Shipping Method:,Modalitate de livrare:,module,Magento_Sales
 Shipping Methods,Modalitati livrare,module,Magento_Multishipping
-Shipping Methods,Modalitati de livrare,module,Magento_Shipping
+Shipping Methods,Metode de livrare,module,Magento_Shipping
 Shipping Origin,Origine livrare,module,Magento_Tax
 Shipping Policy,Politica de livrare,module,Magento_Shipping
 Shipping Policy Parameters,Parametri politica de livrare,module,Magento_Shipping
@@ -5568,12 +5568,12 @@ Shop By,Filtre,module,Magento_Catalog
 Shop By,Filtre,module,Magento_LayeredNavigation
 Shop now using (150 X 40),Cumparati acum folosind (150 X 40),module,Magento_Paypal
 Shop now using (150 X 60),Cumparati acum folosind (150 X 60),module,Magento_Paypal
-Shopping Cart,Cos de cumparaturi,module,Magento_Checkout
-Shopping Cart,Cos de cumparaturi,module,Magento_Reports
-Shopping Cart,Cos de cumparaturi,module,Magento_Sales
+Shopping Cart,Coș de cumpărături,module,Magento_Checkout
+Shopping Cart,Coș de cumpărături,module,Magento_Reports
+Shopping Cart,Coș de cumpărături,module,Magento_Sales
 Shopping Cart Display Settings,Setari afisare cos de cumparaturi,module,Magento_Tax
 Shopping Cart from %1,Cos de cumparaturi de la %1,module,Magento_Customer
-Shopping Cart Items,Articole cos de cumparaturi,module,Magento_Checkout
+Shopping Cart Items,Articole din coșul de cumpărături,module,Magento_Checkout
 Shopping Cart Sidebar,Bara laterala cos de cumparaturi,module,Magento_Checkout
 Shopping Options,Optiuni cumparare,module,Magento_Catalog
 Shopping Options,Optiuni cumparare,module,Magento_LayeredNavigation
@@ -6011,10 +6011,10 @@ Such image doesn't exist,Nu exista o astfel de imagine.,module,Magento_Catalog
 Such product doesn't exist,Nu exista un astfel de produs.,module,Magento_Catalog
 Suffix Dropdown Options,Optiuni dropdown sufix,module,Magento_Customer
 Suggested Terms,Termeni recomandati,module,Magento_Search
-Summary,Cuprins,module,Magento_Bundle
-Summary,Cuprins,module,Magento_ConfigurableProduct
-Summary,Cuprins,module,Magento_ImportExport
-Summary,Cuprins,module,Magento_Review
+Summary,Rezumat,module,Magento_Bundle
+Summary,Rezumat,module,Magento_ConfigurableProduct
+Summary,Rezumat,module,Magento_ImportExport
+Summary,Rezumat,module,Magento_Review
 Summary of Review,Cuprins Recenzie,module,Magento_Review
 Summary of review: %1 <br/>,Cuprins recenzie: %1 <br/>,module,Magento_Review
 Summary Rating,Cuprins Rating,module,Magento_Review
@@ -6806,7 +6806,7 @@ Update product's %1 %2: %3,Actualizati %1 %2: %3 produselor,module,Magento_Sales
 Update Qty &amp; Addresses,Actializati &amp; de catitate Adrese,module,Magento_Multishipping
 Update Qty's,Actualizeaza cantitati,module,Magento_Sales
 Update Shipping Method,Actualizare modalitate de livrare,module,Magento_Paypal
-Update Shopping Cart,Actualizare cos de cumparaturi,module,Magento_Checkout
+Update Shopping Cart,Actualizează coșul,module,Magento_Checkout
 Update Status,Actualizare Status,module,Magento_Review
 Update the Product,Actualizati produsul,module,Magento_CatalogRule
 Update the Product,Actualizati produsul,module,Magento_SalesRule
@@ -7400,13 +7400,13 @@ Width,Latime,module,Magento_Shipping
 Width,Latime,module,Magento_Usps
 Will appear as a payment option only for customers who have at least one active billing agreement.,Va aparea ca optiune de plata numai pentru clientii care au cel putin un acord activ de facturare.,module,Magento_Paypal
 Will make search for the query above return results for this search,Vom efectua cautarea pentru interogarea de cautare de mai sus si vom afisa rezultatele pentru aceasta cautare.,module,Magento_Search
-Wish List,Lista de dorinte,module,Magento_Sales
-Wish List,Lista de dorinte,module,Magento_Wishlist
+Wish List,Lista de dorințe,module,Magento_Sales
+Wish List,Lista de dorințe,module,Magento_Wishlist
 Wish List is empty now.,Lista de Dorinte este goala acum.,module,Magento_Wishlist
 Wish List Purchase,Achizitionare lista de dorinte,module,Magento_Reports
 Wish List Sharing,Partajare Lista de dorinte,module,Magento_Wishlist
 Wish List vs. Regular Order,lista de dorinte vs. Comanda normala,module,Magento_Reports
-Wish Lists,Lista de dorinte,module,Magento_Reports
+Wish Lists,Listele de dorințe,module,Magento_Reports
 WK,WK / Saptamana,module,Magento_Backend
 WK,WK,module,Magento_Theme
 Workflow type,Tip Flux de lucru,module,Magento_Developer
@@ -7560,7 +7560,7 @@ You have entered an invalid password for current user.,Ati introdus o parola nev
 You have logged out.,Sunteti deconectat.,module,Magento_Backend
 You have no default billing address in your address book.,Nu aveti adrese de facturare implicite în agenda.,module,Magento_Customer
 You have no default shipping address in your address book.,Nu aveti adrese de livrare implicite în agenda.,module,Magento_Customer
-You have no items in your shopping cart.,Nu aveti nici un articol în cosul de cumparaturi,module,Magento_Checkout
+You have no items in your shopping cart.,Nu aveți niciun articol în coșul de cumpărături.,module,Magento_Checkout
 You have no items in your wish list.,Nu aveti nici un articol în lista de dorinte,module,Magento_Wishlist
 You have no items to compare.,Nu aveti articole de comparat.,module,Magento_Catalog
 You have no other address entries in your address book.,Nu aveti intrari de adrese în agenda.,module,Magento_Customer
@@ -7705,28 +7705,28 @@ Youtube API key is invalid,Cheie API Youtube nevalida,module,Magento_ProductVide
 YTD,Ultimul an,module,Magento_Backend
 Zero shipping charge for '%1',Zero taxe de livrare pentru '%1',module,Magento_Dhl
 Zero Subtotal Checkout,Checkout subtotal zero,module,Magento_OfflinePayments
-ZIP,Cod postal,module,Magento_Customer
+ZIP,Cod poștal,module,Magento_Customer
 ZIP Code,Cod postal,module,Magento_Sales
 ZIP/Post Code,Cod Postal,module,Magento_Sales
-Zip/Post Code,Cod postal,module,Magento_Tax
-Zip/Post Code,Cod postal,module,Magento_TaxImportExport
+Zip/Post Code,Cod poștal,module,Magento_Tax
+Zip/Post Code,Cod poștal,module,Magento_TaxImportExport
 Zip/Post is Range,Codul este gama,module,Magento_Tax
 Zip/Post is Range,Codul este gama,module,Magento_TaxImportExport
-ZIP/Postal Code,Cod postal,module,Magento_Backend
-Zip/Postal Code,Cod postal,module,Magento_Braintree
-Zip/Postal Code,Cod postal,module,Magento_Checkout
-Zip/Postal Code,Cod postal,module,Magento_Customer
-Zip/Postal Code,Cod postal,module,Magento_Email
-Zip/Postal Code,Cod postal,module,Magento_OfflineShipping
-Zip/Postal Code,Cod postal,module,Magento_Sales
-ZIP/Postal Code,Cod postal,module,Magento_Shipping
+ZIP/Postal Code,Cod poștal,module,Magento_Backend
+Zip/Postal Code,Cod poștal,module,Magento_Braintree
+Zip/Postal Code,Cod poștal,module,Magento_Checkout
+Zip/Postal Code,Cod poștal,module,Magento_Customer
+Zip/Postal Code,Cod poștal,module,Magento_Email
+Zip/Postal Code,Cod poștal,module,Magento_OfflineShipping
+Zip/Postal Code,Cod poștal,module,Magento_Sales
+ZIP/Postal Code,Cod poștal,module,Magento_Shipping
 Zip/Postal Code is Optional for,Codul postal este Optional pentru,module,Magento_Directory
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Ati adaugat %1 în <a href=""%2"">cosul de cumparaturi</a>."
 "The requested qty is not available","Cantitatea ceruta nu este disponibila"
 "Are you sure you would like to remove this item from the shopping cart?","Sunteti sigur ca doriti sa eliminati acest produs din cos?",module,Magento_Checkout
 "View and Edit Cart","Vizualizati si Modificati Cosul",module,Magento_Checkout
-"You can create an account after checkout.","Va puteti crea contul dupa checkout.",module,Magento_Checkout
-"Order Summary","Sumar Comanda",module,Magento_Checkout
+"You can create an account after checkout.","Vă puteți crea contul după finalizarea comenzii.",module,Magento_Checkout
+"Order Summary","Sumar comandă",module,Magento_Checkout
 "Item in Cart","Produs in Cos",module,Magento_Checkout
 "Items in Cart","Produse in Cos",module,Magento_Checkout
 "Review & Payments","Sumar si Plata",module,Magento_Checkout
@@ -7738,9 +7738,15 @@ Zip/Postal Code is Optional for,Codul postal este Optional pentru,module,Magento
 "Your %store_name order confirmation","Confirmarea comenzii tale la %store_name"
 "Your %store_name order has shipped","Comanda ta la %store_name a fost expediata",module,Magento_Sales
 "Update to your %store_name shipment","Schimbare starii livarii pentru comanda ta la %store_name",module,Magento_Sales
-"My billing and shipping address are the same","Adresa de livrare este aceeasi cu adresa de facturare",module,Magento_Checkout
+"My billing and shipping address are the same","Adresa de livrare este aceeași cu adresa de facturare",module,Magento_Checkout
 We have received a request to change the following information associated with your account at %store_name: password.,Am primit o solicitare de a modifica următoarea informație asociată contului dumneavoastră de la %store_name: parola.,module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at %store_email","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la %store_email",module,Magento_User
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Dacă nu ați autorizat această acțiune, vă rugăm să ne contactați imediat la <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 Your Cart,Coșul tău,module,Magento_Checkout
 Legal guarantee notice,Notificare privind garanția legală,module,Swissup_CheckoutConsumerRights
+%1: Line %2,%1: Linia %2,module,Magento_Checkout
+Tooltip,Sugestie,module,Magento_Ui
+Email Address,Adresă de e-mail,module,Magento_Checkout
+Ship To:,Livrare la:,module,Magento_Checkout
+edit,editează,module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time",Pentru această comandă nu este disponibilă în prezent nicio metodă de livrare.,module,Magento_Checkout
