@@ -7750,3 +7750,4 @@ Email Address,Adresă de e-mail,module,Magento_Checkout
 Ship To:,Livrare la:,module,Magento_Checkout
 edit,editează,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time",Pentru această comandă nu este disponibilă în prezent nicio metodă de livrare.,module,Magento_Checkout
+"The store will not work correctly when cookies are disabled.","Magazinul nu va funcționa corect atunci când cookie-urile sunt dezactivate.",module,Magento_Theme
