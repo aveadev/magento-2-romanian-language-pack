@@ -7751,3 +7751,8 @@ Ship To:,Livrare la:,module,Magento_Checkout
 edit,editează,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time",Pentru această comandă nu este disponibilă în prezent nicio metodă de livrare.,module,Magento_Checkout
 "The store will not work correctly when cookies are disabled.","Magazinul nu va funcționa corect atunci când cookie-urile sunt dezactivate.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,Cardul dvs. nu are fonduri suficiente. Folosiți o altă metodă de plată pentru a finaliza această achiziție.
+Your card was declined.,Cardul dvs. a fost refuzat.
+Your card has expired.,Cardul dvs. a expirat.
+Your card's security code is incorrect.,Codul de securitate al cardului dvs. este incorect.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","Cardul nu a putut fi procesat. Încercați din nou plata. Dacă tot nu funcționează, contactați banca emitentă a cardului."
